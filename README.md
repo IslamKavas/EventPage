@@ -8,4 +8,4 @@ HTML aand CSS
 
 <h2>Screen GIF</h2>
 
-![] (screen.gif)
+![](screen.gif)
